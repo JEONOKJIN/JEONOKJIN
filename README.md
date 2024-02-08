@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONOKJIN&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONOKJIN&layout=compact)
-(https://github.com/JEONOKJIN/github-readme-stats)
 
- <div align=center>
+
+ 
 <h2>⚡Skills</h2>
 
 <h3>Front</h3>
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
- </div>
+ 
