@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat&logo=Windows 11&logoColor=white"/>
 
 <h3>Tools</h3>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
