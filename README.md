@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3>Back</h3>
 <img src="https://img.shields.io/badge/style=flat&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-1572B6?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 
 <h3>Server</h3>
