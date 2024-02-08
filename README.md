@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
+ <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONOKJIN&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONOKJIN&layout=compact)
-
+</div>
 
  
 <h2>⚡Skills</h2>
