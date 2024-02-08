@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONOKJIN&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OKJIN&show_icons=true&theme=dark)
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONOKJIN&layout=compact)](https://github.com/JEONOKJIN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OKJIN&layout=compact)](https://github.com/JEONOKJIN/github-readme-stats)
 
 <hr>
  <div align=center>
-## ⚡Skills
+<h3>⚡Skills</h3>
 <hr>
 ### Front
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
