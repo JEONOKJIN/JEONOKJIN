@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![JEONOKJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONOKJIN&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONOKJIN&layout=compact&langs_count=10&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONOKJIN)](https://github.com/JEONOKJIN/github-readme-stats)
 <h2>⚡Skills</h2>
 
 <h3>Front</h3>
