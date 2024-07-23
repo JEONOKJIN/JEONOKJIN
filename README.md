@@ -2,7 +2,7 @@
 
 # Developer OKJ
 
-http://suldama.store:3000/
+http://suldama.store
 
 <h2>⚡Skills</h2>
 
